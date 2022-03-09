@@ -5,7 +5,7 @@
 
 ## Requirements
 - [Ghostscript](https://www.ghostscript.com/) Version 9.23 is OK, untested with other versions
-- compatibleWithAdobeRGB1998.icc in [ICC Profiles Free](https://launchpad.net/ubuntu/+source/icc-profiles-free) used in PDFA_def.ps
+- compatibleWithAdobeRGB1998.icc in [ICC Profiles Free](https://launchpad.net/ubuntu/+source/icc-profiles-free) used in [PDFA_def.ps](https://github.com/rtournoy/pdf2pdfa/blob/main/PDFA_def.ps)
 
 ## Setup
 
